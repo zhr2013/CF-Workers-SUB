@@ -17,7 +17,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tc2VydjAwLXMxMyIsDQogICJhZGQiOiAi
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.42:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13
 https://cm-qnct.zhf1979.us.kg/3384bd86-ea09-43b5-b9a1-1849659e9106
 https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJjcDhtdXQ0dSIsCiAgImFkZCI6ICIxNTIuNzAuMjE5LjEzOSIsCiAgInBvcnQiOiA0MDczOSwKICAiaWQiOiAiMWRkM2U3ODgtYjlhYS00ZWUwLWE5MWQtNWMzNDM4OGM4MzMyIiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
 `
 
 let urls = [];
