@@ -16,7 +16,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tc2VydjAwX3MxIiwNCiAgImFkZCI6ICJp
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tc2VydjAwLXMxMyIsDQogICJhZGQiOiAiaWNvb2suaGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYWI1NjQ0ZDctODVmZS00YzFhLThkNGEtZTNjYTU4MzMzZThiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJzZXJ2MDAtczEzLnpoZjE5NzkudXMua2ciLA0KICAicGF0aCI6ICIvc2VydjAwP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2VydjAwLXMxMy56aGYxOTc5LnVzLmtnIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.42:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13
 https://cm-qnct.zhf1979.us.kg/3384bd86-ea09-43b5-b9a1-1849659e9106
-https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
+##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
+https://kjxl.zhr2013.us.kg/90a79f7b-2894-4325-b86b-89a37e71790a
 `
 
 let urls = [];
