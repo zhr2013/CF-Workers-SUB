@@ -16,6 +16,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tc2VydjAwX3MxIiwNCiAgImFkZCI6ICJp
 vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tdm1lc3MtczEzLXpoZW5naHVhbnJhbiIsICJhZGQiOiAid3d3LnZpc2EuY29tLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImFiNTY0NGQ3LTg1ZmUtNGMxYS04ZDRhLWUzY2E1ODMzM2U4YiIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic2VydjAwLXMxMy56aGYxOTc5LnVzLmtnIiwgInBhdGgiOiAiL3NlcnYwMD9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogInNlcnYwMC1zMTMuemhmMTk3OS51cy5rZyIsICJhbHBuIjogIiIgfQ==
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-zhenghuanran
 vless://b0dd56bf-45a7-44d0-b264-5dfee5ceb0c6@107.173.35.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&fp=chrome&pbk=3tdhh2TMWBf9FkwDKU3GYLb272MN-YZn7n35ziIXjmY&sid=e4024790a80c9a7d&type=tcp&headerType=none#SING-BOX-Reality
+hysteria2://77a4c258-face-4724-9e15-18701effbcec@188.68.240.160:36687/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-haifeng
 hysteria2://49211022f165c61a@107.173.35.65:8443?insecure=1&sni=bing.com
 https://cm-qnct.zhf1979.us.kg/3384bd86-ea09-43b5-b9a1-1849659e9106
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
