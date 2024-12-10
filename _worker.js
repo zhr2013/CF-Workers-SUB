@@ -20,6 +20,7 @@ hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bi
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14
 hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
 hysteria2://49211022f165c61a@107.173.35.65:8443/?sni=bing.com&insecure=1#rn-hy2
+hysteria2://bd7bb10b-c93e-46d6-91cd-839cdc04021e@[2a01:4f8:211:2312:1234:4321:7b67:1]:48817/?sni=www.bing.com&alpn=h3&insecure=1#hy2-hax
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
 `
 
