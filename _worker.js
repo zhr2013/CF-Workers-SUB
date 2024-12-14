@@ -16,11 +16,11 @@ vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tdm1lc3MtczEtbmZ0NmdxMDg0IiwgImFkZCI6ICJ3
 vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tdm1lc3MtczEzLXpoZW5naHVhbnJhbiIsICJhZGQiOiAid3d3LnZpc2EuY29tLmhrIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImFiNTY0NGQ3LTg1ZmUtNGMxYS04ZDRhLWUzY2E1ODMzM2U4YiIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic2VydjAwLXMxMy56aGYxOTc5LnVzLmtnIiwgInBhdGgiOiAiL3NlcnYwMD9lZD0yMDQ4IiwgInRscyI6ICJ0bHMiLCAic25pIjogInNlcnYwMC1zMTMuemhmMTk3OS51cy5rZyIsICJhbHBuIjogIiIgfQ==
 vmess://eyAidiI6ICIyIiwgInBzIjogIkFyZ28tdm1lc3MtczE0LWhhaWZlbmciLCAiYWRkIjogInd3dy52aXNhLmNvbS5oayIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIxZTFlYTM5Zi1lZTdkLTQzNzgtOGQ4MS1mNWMxZGEwM2QyMTkiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInNlcnYwMC1zMTQuemhmMTk3OS51cy5rZyIsICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJzZXJ2MDAtczE0LnpoZjE5NzkudXMua2ciLCAiYWxwbiI6ICIiIH0=
 vless://b1e94e2f-4ace-4ec2-abc8-a628c5c8f8a6@icook.hk:8880?encryption=none&security=none&type=ws&host=hax-eu.zhf1979.us.kg&path=%2F#hax_eu-vless
-vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@ct.090227.xyz:8880?encryption=none&security=none&type=ws&host=hax-us2.zhf1979.us.kg&path=%2F#hax_us2-vless
+vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@ct.090227.xyz:8880?encryption=none&security=none&type=ws&host=hax-us2.zhf1979.us.kg&path=%2F#hax_us2-vless—US
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14
 hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
-vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
+vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless-EU
 hysteria2://bd7bb10b-c93e-46d6-91cd-839cdc04021e@[2a01:4f8:211:2312:1234:4321:7b67:1]:48817/?sni=www.bing.com&alpn=h3&insecure=1#hy2-hax
 tuic://bd7bb10b-c93e-46d6-91cd-839cdc04021e:bd7bb10b-c93e-46d6-91cd-839cdc04021e@[2a01:4f8:211:2312:1234:4321:7b67:1]:49374?sni=www.bing.com&alpn=h3&congestion_control=bbr#tu5-hax
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
