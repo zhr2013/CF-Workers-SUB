@@ -17,9 +17,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczEzLVBMIiwNCiAgImFkZCI6
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczE0LVBMIiwNCiAgImFkZCI6ICJpY29vay5oayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxZTFlYTM5Zi1lZTdkLTQzNzgtOGQ4MS1mNWMxZGEwM2QyMTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlcnYwMC1zMTQuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJ2MDAtczE0LnpoZjE5NzkudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://b1e94e2f-4ace-4ec2-abc8-a628c5c8f8a6@icook.hk:8880?encryption=none&security=none&type=ws&host=hax-eu.zhf1979.us.kg&path=%2F#hax_eu-vless-DE
 vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@ct.090227.xyz:8880?encryption=none&security=none&type=ws&host=hax-us2.zhf1979.us.kg&path=%2F#hax_us2-vless-US
-hysteria2:hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-haifeng//ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
+hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
-hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1-PL
+hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
 vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
 hysteria2://bd7bb10b-c93e-46d6-91cd-839cdc04021e@104.28.207.215:48817?&alpn=h3&insecure=1&mport=48817&sni=www.bing.com#hy2-eu
 tuic://bd7bb10b-c93e-46d6-91cd-839cdc04021e:bd7bb10b-c93e-46d6-91cd-839cdc04021e@104.28.207.215:49374?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#tu5-eu
