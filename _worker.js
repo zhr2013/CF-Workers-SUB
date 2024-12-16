@@ -21,8 +21,8 @@ hysteria2:hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
 hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1-PL
 vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
-hysteria2://bd7bb10b-c93e-46d6-91cd-839cdc04021e@[2a01:4f8:211:2312:1234:4321:7b67:1]:48817/?sni=www.bing.com&alpn=h3&insecure=1#hy2-hax
-tuic://bd7bb10b-c93e-46d6-91cd-839cdc04021e:bd7bb10b-c93e-46d6-91cd-839cdc04021e@[2a01:4f8:211:2312:1234:4321:7b67:1]:49374?sni=www.bing.com&alpn=h3&congestion_control=bbr#tu5-hax
+hysteria2://bd7bb10b-c93e-46d6-91cd-839cdc04021e@104.28.207.215:48817?&alpn=h3&insecure=1&mport=48817&sni=www.bing.com#hy2-eu
+tuic://bd7bb10b-c93e-46d6-91cd-839cdc04021e:bd7bb10b-c93e-46d6-91cd-839cdc04021e@104.28.207.215:49374?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#tu5-eu
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
 `
 
