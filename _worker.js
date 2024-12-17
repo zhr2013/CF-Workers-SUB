@@ -15,13 +15,12 @@ let MainData = `
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczEtUEwiLA0KICAiYWRkIjogImljb29rLmhrIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjg5MTQwMzI2LTIyNzAtNDVlZi05YmExLWNmNzQ3ZmIyZmQ4MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAibm9uZSIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2VydjAwLXMxLnpoZjE5NzkudXMua2ciLA0KICAicGF0aCI6ICIvc2VydjAwP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAic2VydjAwLXMxLnpoZjE5NzkudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczEzLVBMIiwNCiAgImFkZCI6ICJpY29vay5oayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJhYjU2NDRkNy04NWZlLTRjMWEtOGQ0YS1lM2NhNTgzMzNlOGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlcnYwMC1zMTMuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJ2MDAtczEzLnpoZjE5NzkudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczE0LVBMIiwNCiAgImFkZCI6ICJpY29vay5oayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxZTFlYTM5Zi1lZTdkLTQzNzgtOGQ4MS1mNWMxZGEwM2QyMTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlcnYwMC1zMTQuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJ2MDAtczE0LnpoZjE5NzkudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://b1e94e2f-4ace-4ec2-abc8-a628c5c8f8a6@icook.hk:8880?encryption=none&security=none&type=ws&host=hax-eu.zhf1979.us.kg&path=%2F#hax_eu-vless-DE
 vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@ct.090227.xyz:8880?encryption=none&security=none&type=ws&host=hax-us2.zhf1979.us.kg&path=%2F#hax_us2-vless-US
 vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
 hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
-
+hysteria2://f5857868-04e2-4b27-bfa8-95fb4b7abc3c@65.21.206.16:53441/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-zhf
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
 `
 
