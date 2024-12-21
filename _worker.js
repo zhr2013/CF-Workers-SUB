@@ -25,6 +25,7 @@ hysteria2://f5857868-04e2-4b27-bfa8-95fb4b7abc3c@65.21.206.16:53441/?sni=www.bin
 hysteria2://22926bf5-89a6-4b2c-ab38-7206f8301150@65.21.206.16:24857/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-qugmzhr-DE
 hysteria2://76a856f8-6bef-463f-a770-09979f5a99da@[2a01:4f8:211:2312:1234:4321:14cf:1]:20711?&alpn=h3&insecure=1&mport=20711&sni=www.bing.com#hy2-hax-EU
 tuic://76a856f8-6bef-463f-a770-09979f5a99da:76a856f8-6bef-463f-a770-09979f5a99da@[2a01:4f8:211:2312:1234:4321:14cf:1]:31943?congestion_control=bbr&udp_relay_mode=native&alpn=h3&sni=www.bing.com&allow_insecure=1#tu5-hax.EU
+hysteria2://0747350a-9cad-497a-92dd-c12c90d27d24@[2602:294:0:dc:1234:1234:156a:1]:57884?&alpn=h3&insecure=1&mport=57884&sni=www.bing.com#hy2-hax-US3
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
 `
 
