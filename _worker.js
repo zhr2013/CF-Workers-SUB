@@ -21,8 +21,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhheF9ldS12bWVzcyIsDQogICJhZGQiOiAiaWNv
 vless://0747350a-9cad-497a-92dd-c12c90d27d24@[2602:294:0:dc:1234:1234:156a:1]:24175?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=d4LkhqS-tV63uhksMAjhnWJMm24s-ouc19DObmiT0W4&sid=e8990b27&type=tcp&headerType=none#hax_us3-reality
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhheF91czMtdm1lc3MtVVMiLA0KICAiYWRkIjogImthbGkub3JnIiwNCiAgInBvcnQiOiAiMjA5NSIsDQogICJpZCI6ICIwNzQ3MzUwYS05Y2FkLTQ5N2EtOTJkZC1jMTJjOTBkMjdkMjQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhheC11czMuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogIjA3NDczNTBhLTljYWQtNDk3YS05MmRkLWMxMmM5MGQyN2QyNC12bSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
-hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
-hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
+hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.234.53:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
+hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.234.53:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
 hysteria2://f5857868-04e2-4b27-bfa8-95fb4b7abc3c@65.21.206.16:53441/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-zhfqdgm-DE
 hysteria2://22926bf5-89a6-4b2c-ab38-7206f8301150@65.21.206.16:24857/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-qugmzhr-DE
 hysteria2://76a856f8-6bef-463f-a770-09979f5a99da@[2a01:4f8:211:2312:1234:4321:14cf:1]:20711?&alpn=h3&insecure=1&mport=20711&sni=www.bing.com#hy2-hax-EU
