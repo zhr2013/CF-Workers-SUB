@@ -20,8 +20,8 @@ vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@kali.org:8880?encryption=none&secur
 vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhheF91czMtdm1lc3MtdXMiLA0KICAiYWRkIjogImljb29rLmhrIiwNCiAgInBvcnQiOiAiMjA4NiIsDQogICJpZCI6ICJkOGMwOWM2NC1lYTljLTQyNmYtOTE2MS1lMGY5OTYyZTgwZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhheC11czMuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogImQ4YzA5YzY0LWVhOWMtNDI2Zi05MTYxLWUwZjk5NjJlODBmZS12bSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
-hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.234.53:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
-hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.234.53:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
+hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.240.161:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
+hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.240.161:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
 hysteria2://167dfd5f-be4c-49dc-8eaa-07ab6d2f14ed@65.21.206.16:53441?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15.qdgmzhf-DE
 hysteria2://22926bf5-89a6-4b2c-ab38-7206f8301150@65.21.206.16:24857/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-qugmzhr-DE
 hysteria2://d8c09c64-ea9c-426f-9161-e0f9962e80fe@[2602:294:0:dc:1234:1234:156a:1]:43998?sni=www.bing.com&alpn=h3&insecure=1#hax_us3-hy2
