@@ -17,14 +17,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczEzLVBMIiwNCiAgImFkZCI6
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFyZ28tdm1lc3MtczE0LVBMIiwNCiAgImFkZCI6ICJpY29vay5oayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIxZTFlYTM5Zi1lZTdkLTQzNzgtOGQ4MS1mNWMxZGEwM2QyMTkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNlcnYwMC1zMTQuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogIi9zZXJ2MDA/ZWQ9MjA0OCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzZXJ2MDAtczE0LnpoZjE5NzkudXMua2ciLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://2f49a982-4c98-4821-f6a2-ccd9ff29edd4@kali.org:8880?encryption=none&security=none&type=ws&host=hax-us2.zhf1979.us.kg&path=%2F#hax_us2-vless-US
 vless://32382696-5eae-44c8-ba41-66600615988e@icook.hk:8880?encryption=none&security=none&type=ws&host=rn.zhf1979.us.kg&path=%2F#rn_vless
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhheF9ldS12bWVzcyIsDQogICJhZGQiOiAiaWNvb2suaGsiLA0KICAicG9ydCI6ICI4MDgwIiwNCiAgImlkIjogIjc2YTg1NmY4LTZiZWYtNDYzZi1hNzcwLTA5OTc5ZjVhOTlkYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaGF4LWV1LnpoZjE5NzkudXMua2ciLA0KICAicGF0aCI6ICI3NmE4NTZmOC02YmVmLTQ2M2YtYTc3MC0wOTk3OWY1YTk5ZGEtdm0iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhheF91czMtdm1lc3MtdXMiLA0KICAiYWRkIjogImljb29rLmhrIiwNCiAgInBvcnQiOiAiMjA4NiIsDQogICJpZCI6ICJkOGMwOWM2NC1lYTljLTQyNmYtOTE2MS1lMGY5OTYyZTgwZmUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhheC11czMuemhmMTk3OS51cy5rZyIsDQogICJwYXRoIjogImQ4YzA5YzY0LWVhOWMtNDI2Zi05MTYxLWUwZjk5NjJlODBmZS12bSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 hysteria2://ab5644d7-85fe-4c1a-8d4a-e3ca58333e8b@128.204.223.43:6168/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s13-PL
 hysteria2://1e1ea39f-ee7d-4378-8d81-f5c1da03d219@188.68.234.53:16265/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-PL
 hysteria2://31ab2037-9ed7-4881-8160-98e50aa12f2c@188.68.234.53:44782/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s14-G1
 hysteria2://f5857868-04e2-4b27-bfa8-95fb4b7abc3c@65.21.206.16:53441/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-zhfqdgm-DE
 hysteria2://22926bf5-89a6-4b2c-ab38-7206f8301150@65.21.206.16:24857/?sni=www.bing.com&alpn=h3&insecure=1#Hy2-s15-qugmzhr-DE
-hysteria2://76a856f8-6bef-463f-a770-09979f5a99da@[2a01:4f8:211:2312:1234:4321:14cf:1]:20711?&alpn=h3&insecure=1&mport=20711&sni=www.bing.com#hy2-hax-EU
 hysteria2://d8c09c64-ea9c-426f-9161-e0f9962e80fe@[2602:294:0:dc:1234:1234:156a:1]:43998?sni=www.bing.com&alpn=h3&insecure=1#hax_us3-hy2
 ##https://dash.djjc.cfd/api/v1/client/subscribe?token=2b1f6c5c9a5e0b1674d774b919554479
 `
